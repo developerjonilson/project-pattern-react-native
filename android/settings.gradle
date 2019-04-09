@@ -1,0 +1,3 @@
+rootProject.name = 'gnMod2'
+
+include ':app'
